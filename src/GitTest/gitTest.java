@@ -5,7 +5,7 @@ package GitTest;
  */
 public class gitTest {
     public  static  void main(String[] agrs){
-        System.out.println("1235555");
+        System.out.println("123555522");
     }
 
 }
